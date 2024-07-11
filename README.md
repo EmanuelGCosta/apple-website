@@ -24,7 +24,7 @@ Durante o desenvolvimento deste projeto, aprofundei meus conhecimentos em React.
 </div>
 
 &nbsp;
-___
+---
 
 ### 💻 Pré-requisitos
 
