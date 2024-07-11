@@ -12,6 +12,7 @@
 Durante o desenvolvimento deste projeto, aprofundei meus conhecimentos em React.js e Tailwind CSS. Além disso, aprendi bastante sobre animações em páginas com layout em grid, containers e textos enquanto a página é rolada, e a utilização de modelos 3D para proporcionar uma visualização mais próxima do produto real.
 
 ## Tecnologias usadas
+&nbsp;
 <div align="center">
 <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" width=/>&nbsp;
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;
